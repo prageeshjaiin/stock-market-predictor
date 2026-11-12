@@ -6,7 +6,7 @@ A machine learning application built in **Python** to analyze historical Tesla (
 
 ## 📂 Repository Contents
 
-* **`stock_price_predictor.ipynb`** — Jupyter Notebook covering exploratory data analysis (EDA), feature engineering, model training, and performance evaluation[cite: 30].
+* **`stock price predictor.ipynb`** — Jupyter Notebook covering exploratory data analysis (EDA), feature engineering, model training, and performance evaluation[cite: 30].
 * **`stock_price_predictor_app.py`** — Interactive web application script for generating real-time stock price predictions using the trained model[cite: 30].
 * **`model.pkl`** — Serialized pre-trained machine learning model ready for inference[cite: 30].
 * **`TSLA.csv`** — Historical Tesla stock dataset (Open, High, Low, Close, Volume) used for training and testing[cite: 30].
@@ -44,7 +44,7 @@ A machine learning application built in **Python** to analyze historical Tesla (
 
 ## 📫 Connect & Contact
 
-* **Author:** Pragyesh Jain[cite: 30]
-* **GitHub:** [@prageeshjaiin](https://github.com/prageeshjaiin)[cite: 30]
+* **Author:** Pragyesh Jain
+* **GitHub:** [@prageeshjaiin](https://github.com/prageeshjaiin)
 * **LinkedIn:** [linkedin.com/in/prageeshjaiin](https://www.linkedin.com/in/prageeshjaiin)
 * **Email:** pragyeshjain28@gmail.com
